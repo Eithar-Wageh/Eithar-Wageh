@@ -11,8 +11,8 @@ Hi there! 👋  <br>I'm Eithar, a passionate Front-End Developer from Port Said,
 ![](https://github-readme-stats.vercel.app/api?username=Eithar-Wageh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Eithar-Wageh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eithar-Wageh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eithar-Wageh&layout=compact&theme=dracula&hide_border=true&langs_count=8)
-<br>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eithar-Wageh&theme=dracula)<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eithar-Wageh&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
