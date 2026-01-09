@@ -11,6 +11,8 @@ Hi there! 👋  <br>I'm Eithar, a passionate Front-End Developer from Port Said,
 ![](https://github-readme-stats.vercel.app/api?username=Eithar-Wageh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Eithar-Wageh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eithar-Wageh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eithar-Wageh&layout=compact&theme=dracula&hide_border=true)<br>
+<br>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eithar-Wageh&theme=dracula)<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eithar-Wageh&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
@@ -22,6 +24,8 @@ Hi there! 👋  <br>I'm Eithar, a passionate Front-End Developer from Port Said,
 ![](https://github-contributor-stats.vercel.app/api?username=Eithar-Wageh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=Eithar-Wageh&icon=10&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
